@@ -1,13 +1,13 @@
 # Hi there, I'm Sai Kalyan! (he/him)
 
-MSBA grad from Boston, with a passion for transforming raw data into actionable insight.
+Data Analysis Manager from Boston, with a passion for transforming raw data into actionable insights.
 
-I love working at the intersection of machine learning, data engineering, and real-world problem solving — especially when Python, SQL, and R are in the mix.
+I love working at the intersection of machine learning, data engineering, and real-world problem solving, especially when Python, SQL, and R are in the mix.
 
 Whether it's building a sentiment analyzer from tweets, creating resume matching tools, or deploying GenAI pipelines, I enjoy bringing smart ideas to life through code.
 
-🔧 Tools of the trade:
-- Python | SQL | Power BI | ⚙ETL pipelines
+Tools of the trade:
+- Python | SQL | Power BI | ETL pipelines
 - ML & DL | Data Engineering | Data Cleaning | Streamlit, Git, Colab, QuickBase
 
 Let's collaborate!

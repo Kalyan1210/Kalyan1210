@@ -11,7 +11,7 @@ Tools of the trade:
 - ML & DL | Data Engineering | Data Cleaning | Streamlit, Git, Colab, QuickBase
 
 Let's collaborate!
-I'm always up for building something impactful — especially if it involves ML/DL, data engineering, or open-source tools.
+I'm always up for building something impactful, especially if it involves ML/DL, data engineering, or open-source tools.
 
 Reach out at: **[yalla.saikalyan@gmail.com](mailto:yalla.saikalyan@gmail.com)**  
 Connect on LinkedIn: [in/sai-kalyan-996244128](https://linkedin.com/in/sai-kalyan-996244128)

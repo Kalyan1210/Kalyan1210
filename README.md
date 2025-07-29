@@ -16,7 +16,7 @@ I'm always up for building something impactful, especially if it involves ML/DL,
 Reach out at: **[yalla.saikalyan@gmail.com](mailto:yalla.saikalyan@gmail.com)**  
 Connect on LinkedIn: [in/sai-kalyan-996244128](https://linkedin.com/in/sai-kalyan-996244128)
 
-Fun Fact: I once modeled a wellbore using MATLAB and still had time to hit 182K WRPS in sales as a business head. Data or dollars, I make both work as no data ois worthy if nt useful to business. 😉
+Fun Fact: I once modeled a wellbore using MATLAB and still had time to hit 182K WRPS in sales as a business head. Data or dollars, I make both work as no data is worthy if not useful to business. 😉
 
 
 <!---
